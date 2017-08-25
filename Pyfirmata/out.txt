@@ -1,0 +1,6 @@
+
+Read 1 , Thu Aug 24 11:10:03 2017 , Analog Pin 0 : None , Analog Pin 1 : None , Analog Pin 2 : None , Analog Pin 3 : None
+Read 2 , Thu Aug 24 11:10:03 2017 , Analog Pin 0 : 0.0919 , Analog Pin 1 : 0.0997 , Analog Pin 2 : 0.0958 , Analog Pin 3 : 0.0909
+Read 3 , Thu Aug 24 11:10:03 2017 , Analog Pin 0 : 0.0929 , Analog Pin 1 : 0.1007 , Analog Pin 2 : 0.0987 , Analog Pin 3 : 0.0919
+Read 4 , Thu Aug 24 11:10:03 2017 , Analog Pin 0 : 0.0929 , Analog Pin 1 : 0.0997 , Analog Pin 2 : 0.0948 , Analog Pin 3 : 0.0919
+Read 5 , Thu Aug 24 11:10:03 2017 , Analog Pin 0 : 0.0899 , Analog Pin 1 : 0.0978 , Analog Pin 2 : 0.0968 , Analog Pin 3 : 0.0909

@@ -1,0 +1,9 @@
+my_board.send_sysex(pyfirmata.I2C_REQUEST, my_data)
+
+class MyBoard(pyfirmata.Board):
+	def _handle_i2c(self,*data):
+		#do your thing
+
+my_board = MyBoard()
+my_board.add_cmd_handler(pyfirmata.I2C_REPLY, my_board._handle_i2c)
+#use my_board
